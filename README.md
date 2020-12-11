@@ -1,1 +1,2 @@
-This is the repository for the take-home final exam question.  Make sure you edit this readme so that it contains the required information.
+Andrew Heft 1094871 aheft@uoguelph.ca
+I completed this exam without assistance from other people.
